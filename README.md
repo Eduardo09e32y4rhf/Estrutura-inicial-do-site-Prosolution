@@ -1,54 +1,63 @@
-# Prosolution - Soluções Tech
+# Prosolution - Tecnologia e Inovação
 
-Bem-vindo ao repositório da **Prosolution**, uma startup de tecnologia focada em entregar soluções inovadoras e disruptivas para empresas que buscam o futuro.
+Bem-vindo ao repositório da **Prosolution**, uma empresa de tecnologia dedicada a construir o sistema operacional do futuro.
 
 ## 📝 Descrição
 
-Este projeto é uma landing page moderna e responsiva para a **Prosolution**, apresentando nossos serviços, missão, equipe e depoimentos de clientes satisfeitos. O site foi desenvolvido com foco em performance, design limpo e experiência do usuário.
+A Prosolution nasceu da fusão entre a paixão por código limpo e a visão de um futuro totalmente automatizado. Somos arquitetos digitais focados em entregar soluções que elevam o patamar competitivo dos nossos clientes, utilizando metodologias que priorizam transparência, segurança e escalabilidade infinita.
+
+Este projeto é a landing page oficial da empresa, desenvolvida para apresentar nossos serviços, nossa missão e os resultados que entregamos.
 
 ## ✨ Funcionalidades
 
-- **Design Responsivo:** Adaptável a dispositivos móveis, tablets e desktops.
-- **Menu de Navegação:** Fixo no topo com links suaves para as seções e menu "hambúrguer" para mobile.
-- **Carrossel de Imagens:** Exibição automática e infinita de imagens relacionadas ao ambiente corporativo e tecnológico.
-- **Contador Animado:** Exibe o número de clientes atendidos com uma animação de contagem.
-- **Seção de Serviços:** Cards interativos detalhando as áreas de atuação da empresa.
-- **Depoimentos:** Carrossel interativo com feedback de clientes.
-- **Contato:** Links diretos para redes sociais e botão flutuante para contato via WhatsApp.
+- **Design Responsivo:** Adaptável a todos os dispositivos.
+- **Menu de Navegação:** Fixo e intuitivo.
+- **Carrossel de Imagens:** Exibição dinâmica de ambientes corporativos.
+- **Contador de Clientes:** Animação que exibe o número de clientes atendidos (+4.000).
+- **Depoimentos:** Carrossel interativo com feedback de parceiros.
+- **Botão Flutuante:** Contato direto via WhatsApp.
+
+## 🛠️ Serviços Oferecidos
+
+- **Desenvolvimento de Software Customizado:** Criação de sistemas modulares e eficientes.
+- **Consultoria de Infraestrutura e Cloud:** Migração e otimização para ambientes de nuvem (AWS, Azure, GCP).
+- **Automação e Otimização de Processos (RPA):** Automação de tarefas repetitivas para aumento de produtividade.
 
 ## 🚀 Tecnologias Utilizadas
 
-- **HTML5:** Estrutura semântica do site.
-- **CSS3:** Estilização avançada com Flexbox, Grid, Variáveis CSS e Animações.
-- **JavaScript:** Interatividade para o menu mobile, carrossel de depoimentos e contador de clientes.
+- **HTML5:** Estrutura semântica.
+- **CSS3:** Flexbox, Grid, Variáveis CSS e Animações.
+- **JavaScript:** Funcionalidades interativas (Menu Mobile, Carrossel, Contador).
 
 ## 📂 Estrutura do Projeto
 
-- `index.html`: Arquivo principal com a estrutura da página.
-- `style.css`: Folha de estilos contendo todo o design visual.
-- `script.js`: Scripts para funcionalidades dinâmicas.
-- `img/`: Pasta contendo as imagens utilizadas no projeto (ex: fotos da equipe).
+- `index.html`: Página principal.
+- `style.css`: Folha de estilos.
+- `script.js`: Lógica das interações.
+- `img/`: Imagens do projeto.
 
 ## 🔧 Como Executar
 
-Para visualizar o projeto, basta abrir o arquivo `index.html` em qualquer navegador web moderno.
+Para visualizar o projeto:
 
-1. Clone este repositório ou baixe os arquivos.
-2. Navegue até a pasta do projeto.
-3. Clique duas vezes em `index.html` ou abra-o através do navegador.
+1. Clone este repositório.
+2. Abra o arquivo `index.html` em seu navegador.
 
-## 👥 Equipe
+## 👥 Arquitetos da Inovação (Equipe)
 
-- **Anderson Oliveira:** Acionista Fundador e Estrategista-chefe.
-- **Eduardo Silva:** Engenheiro de Software e Líder Técnico.
+- **Anderson Oliveira**
+  - *Cargo:* Acionista Fundador
+  - *Descrição:* Estrategista-chefe. Focado em IA generativa e expansão para mercados B2B de alta complexidade.
+
+- **Eduardo Silva**
+  - *Cargo:* Engenheiro de Software
+  - *Descrição:* Lidera a direção de engenharia e garante a excelência técnica em todos os nossos desenvolvimentos de software.
 
 ## 📞 Contato
-
-Entre em contato conosco através das nossas redes sociais ou diretamente pelo WhatsApp:
 
 - [WhatsApp](https://wa.me/5515998216626)
 - [Instagram](https://instagram.com/prosolutionsbr/)
 - [LinkedIn](https://www.linkedin.com/company/prosolutiontecnologia/?_l=pt_BR)
 
 ---
-© 2025 Prosolution - Todos os direitos reservados.
+© 2025 Prosolution - São Paulo - SP | Versão 3.1.2 | CNPJ: 54.694.364/0001-48
