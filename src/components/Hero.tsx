@@ -8,10 +8,10 @@ export default function Hero() {
       <div className="absolute inset-0 z-0">
         <img 
           src="/img/fotogame.png" 
-          className="w-full h-full object-cover opacity-20"
+          className="w-full h-full object-cover opacity-45"
           alt="Tecnologia VR Background"
         />
-        <div className="absolute inset-0 bg-gradient-to-b from-black via-black/40 to-black pointer-events-none" />
+        <div className="absolute inset-0 bg-gradient-to-b from-black/80 via-transparent to-black pointer-events-none" />
       </div>
 
       <div className="absolute top-1/4 left-1/4 w-96 h-96 bg-cyan-500/10 rounded-full blur-[128px] pointer-events-none" />
