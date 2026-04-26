@@ -4,8 +4,18 @@ import { ArrowDown, Cpu } from 'lucide-react'
 export default function Hero() {
   return (
     <section id="inicio" className="relative min-h-screen flex items-center justify-center pt-20 overflow-hidden">
-      <div className="absolute top-1/4 left-1/4 w-96 h-96 bg-cyan-500/20 rounded-full blur-[128px] pointer-events-none" />
-      <div className="absolute bottom-1/4 right-1/4 w-96 h-96 bg-blue-600/10 rounded-full blur-[128px] pointer-events-none" />
+      {/* Background Image with Overlay */}
+      <div className="absolute inset-0 z-0">
+        <img 
+          src="/img/hero-bg.jpg" 
+          className="w-full h-full object-cover opacity-20"
+          alt="Tecnologia VR Background"
+        />
+        <div className="absolute inset-0 bg-gradient-to-b from-black via-black/40 to-black pointer-events-none" />
+      </div>
+
+      <div className="absolute top-1/4 left-1/4 w-96 h-96 bg-cyan-500/10 rounded-full blur-[128px] pointer-events-none" />
+      <div className="absolute bottom-1/4 right-1/4 w-96 h-96 bg-blue-600/5 rounded-full blur-[128px] pointer-events-none" />
 
       <div className="max-w-7xl mx-auto w-full relative z-10 px-4 sm:px-6 lg:px-8">
         <motion.div
