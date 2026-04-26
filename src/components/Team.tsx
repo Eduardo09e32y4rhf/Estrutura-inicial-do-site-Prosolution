@@ -6,13 +6,13 @@ const members = [
     name: 'Anderson Oliveira',
     role: 'Co-Fundador & Gestão',
     description: 'Especialista em finanças e gestão empresarial. Anderson lidera a estratégia financeira da Prosolution, garantindo solidez e crescimento sustentável em todas as operações.',
-    image: 'img/anderson.jpeg',
+    image: '/img/anderson.jpeg',
   },
   {
     name: 'Eduardo Silva',
     role: 'Co-Fundador & Tecnologia',
     description: 'Desenvolvedor fullstack com experiência em finanças, desenvolvimento de sistemas e segurança da informação. Eduardo é o responsável pela inovação tecnológica e infraestrutura digital da Prosolution.',
-    image: 'img/eduardo.jpeg',
+    image: '/img/eduardo.jpeg',
   },
 ]
 
@@ -66,4 +66,3 @@ export default function Team() {
     </section>
   )
 }
-
